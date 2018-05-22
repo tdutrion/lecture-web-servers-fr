@@ -25,3 +25,7 @@ Les images suivantes sont utilisées :
 ## Commencer le cours
 
 La première leçon rappelle [les bases des serveurs web](/01-101-server-web-theory).
+
+## Dépot contenant le cours
+
+[sur Github](https://github.com/engineor/lecture-web-servers-fr)
